@@ -1,0 +1,16 @@
+C:\Users\sarat\code\learn\c#\FistProgram\bin\Debug\net5.0\FistProgram.exe
+C:\Users\sarat\code\learn\c#\FistProgram\bin\Debug\net5.0\FistProgram.deps.json
+C:\Users\sarat\code\learn\c#\FistProgram\bin\Debug\net5.0\FistProgram.runtimeconfig.json
+C:\Users\sarat\code\learn\c#\FistProgram\bin\Debug\net5.0\FistProgram.runtimeconfig.dev.json
+C:\Users\sarat\code\learn\c#\FistProgram\bin\Debug\net5.0\FistProgram.dll
+C:\Users\sarat\code\learn\c#\FistProgram\bin\Debug\net5.0\ref\FistProgram.dll
+C:\Users\sarat\code\learn\c#\FistProgram\bin\Debug\net5.0\FistProgram.pdb
+C:\Users\sarat\code\learn\c#\FistProgram\obj\Debug\net5.0\FistProgram.csprojAssemblyReference.cache
+C:\Users\sarat\code\learn\c#\FistProgram\obj\Debug\net5.0\FistProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sarat\code\learn\c#\FistProgram\obj\Debug\net5.0\FistProgram.AssemblyInfoInputs.cache
+C:\Users\sarat\code\learn\c#\FistProgram\obj\Debug\net5.0\FistProgram.AssemblyInfo.cs
+C:\Users\sarat\code\learn\c#\FistProgram\obj\Debug\net5.0\FistProgram.csproj.CoreCompileInputs.cache
+C:\Users\sarat\code\learn\c#\FistProgram\obj\Debug\net5.0\FistProgram.dll
+C:\Users\sarat\code\learn\c#\FistProgram\obj\Debug\net5.0\ref\FistProgram.dll
+C:\Users\sarat\code\learn\c#\FistProgram\obj\Debug\net5.0\FistProgram.pdb
+C:\Users\sarat\code\learn\c#\FistProgram\obj\Debug\net5.0\FistProgram.genruntimeconfig.cache
