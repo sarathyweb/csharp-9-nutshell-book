@@ -1,0 +1,16 @@
+C:\Users\sarat\code\learn\c#9-nutshell\Chapter02\VariablesAndParameters\bin\Debug\net5.0\VariablesAndParameters.exe
+C:\Users\sarat\code\learn\c#9-nutshell\Chapter02\VariablesAndParameters\bin\Debug\net5.0\VariablesAndParameters.deps.json
+C:\Users\sarat\code\learn\c#9-nutshell\Chapter02\VariablesAndParameters\bin\Debug\net5.0\VariablesAndParameters.runtimeconfig.json
+C:\Users\sarat\code\learn\c#9-nutshell\Chapter02\VariablesAndParameters\bin\Debug\net5.0\VariablesAndParameters.runtimeconfig.dev.json
+C:\Users\sarat\code\learn\c#9-nutshell\Chapter02\VariablesAndParameters\bin\Debug\net5.0\VariablesAndParameters.dll
+C:\Users\sarat\code\learn\c#9-nutshell\Chapter02\VariablesAndParameters\bin\Debug\net5.0\ref\VariablesAndParameters.dll
+C:\Users\sarat\code\learn\c#9-nutshell\Chapter02\VariablesAndParameters\bin\Debug\net5.0\VariablesAndParameters.pdb
+C:\Users\sarat\code\learn\c#9-nutshell\Chapter02\VariablesAndParameters\obj\Debug\net5.0\VariablesAndParameters.csprojAssemblyReference.cache
+C:\Users\sarat\code\learn\c#9-nutshell\Chapter02\VariablesAndParameters\obj\Debug\net5.0\VariablesAndParameters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sarat\code\learn\c#9-nutshell\Chapter02\VariablesAndParameters\obj\Debug\net5.0\VariablesAndParameters.AssemblyInfoInputs.cache
+C:\Users\sarat\code\learn\c#9-nutshell\Chapter02\VariablesAndParameters\obj\Debug\net5.0\VariablesAndParameters.AssemblyInfo.cs
+C:\Users\sarat\code\learn\c#9-nutshell\Chapter02\VariablesAndParameters\obj\Debug\net5.0\VariablesAndParameters.csproj.CoreCompileInputs.cache
+C:\Users\sarat\code\learn\c#9-nutshell\Chapter02\VariablesAndParameters\obj\Debug\net5.0\VariablesAndParameters.dll
+C:\Users\sarat\code\learn\c#9-nutshell\Chapter02\VariablesAndParameters\obj\Debug\net5.0\ref\VariablesAndParameters.dll
+C:\Users\sarat\code\learn\c#9-nutshell\Chapter02\VariablesAndParameters\obj\Debug\net5.0\VariablesAndParameters.pdb
+C:\Users\sarat\code\learn\c#9-nutshell\Chapter02\VariablesAndParameters\obj\Debug\net5.0\VariablesAndParameters.genruntimeconfig.cache
