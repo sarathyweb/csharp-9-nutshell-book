@@ -1,0 +1,16 @@
+C:\Users\sarat\code\learn\c#9-nutshell\Chapter02\StringsChars\bin\Debug\net5.0\StringsChars.exe
+C:\Users\sarat\code\learn\c#9-nutshell\Chapter02\StringsChars\bin\Debug\net5.0\StringsChars.deps.json
+C:\Users\sarat\code\learn\c#9-nutshell\Chapter02\StringsChars\bin\Debug\net5.0\StringsChars.runtimeconfig.json
+C:\Users\sarat\code\learn\c#9-nutshell\Chapter02\StringsChars\bin\Debug\net5.0\StringsChars.runtimeconfig.dev.json
+C:\Users\sarat\code\learn\c#9-nutshell\Chapter02\StringsChars\bin\Debug\net5.0\StringsChars.dll
+C:\Users\sarat\code\learn\c#9-nutshell\Chapter02\StringsChars\bin\Debug\net5.0\ref\StringsChars.dll
+C:\Users\sarat\code\learn\c#9-nutshell\Chapter02\StringsChars\bin\Debug\net5.0\StringsChars.pdb
+C:\Users\sarat\code\learn\c#9-nutshell\Chapter02\StringsChars\obj\Debug\net5.0\StringsChars.csprojAssemblyReference.cache
+C:\Users\sarat\code\learn\c#9-nutshell\Chapter02\StringsChars\obj\Debug\net5.0\StringsChars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sarat\code\learn\c#9-nutshell\Chapter02\StringsChars\obj\Debug\net5.0\StringsChars.AssemblyInfoInputs.cache
+C:\Users\sarat\code\learn\c#9-nutshell\Chapter02\StringsChars\obj\Debug\net5.0\StringsChars.AssemblyInfo.cs
+C:\Users\sarat\code\learn\c#9-nutshell\Chapter02\StringsChars\obj\Debug\net5.0\StringsChars.csproj.CoreCompileInputs.cache
+C:\Users\sarat\code\learn\c#9-nutshell\Chapter02\StringsChars\obj\Debug\net5.0\StringsChars.dll
+C:\Users\sarat\code\learn\c#9-nutshell\Chapter02\StringsChars\obj\Debug\net5.0\ref\StringsChars.dll
+C:\Users\sarat\code\learn\c#9-nutshell\Chapter02\StringsChars\obj\Debug\net5.0\StringsChars.pdb
+C:\Users\sarat\code\learn\c#9-nutshell\Chapter02\StringsChars\obj\Debug\net5.0\StringsChars.genruntimeconfig.cache

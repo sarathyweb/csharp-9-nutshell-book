@@ -1,0 +1,16 @@
+C:\Users\sarat\code\learn\c#9-nutshell\Chapter02\PredefinedTypes\bin\Debug\net5.0\PredefinedTypes.exe
+C:\Users\sarat\code\learn\c#9-nutshell\Chapter02\PredefinedTypes\bin\Debug\net5.0\PredefinedTypes.deps.json
+C:\Users\sarat\code\learn\c#9-nutshell\Chapter02\PredefinedTypes\bin\Debug\net5.0\PredefinedTypes.runtimeconfig.json
+C:\Users\sarat\code\learn\c#9-nutshell\Chapter02\PredefinedTypes\bin\Debug\net5.0\PredefinedTypes.runtimeconfig.dev.json
+C:\Users\sarat\code\learn\c#9-nutshell\Chapter02\PredefinedTypes\bin\Debug\net5.0\PredefinedTypes.dll
+C:\Users\sarat\code\learn\c#9-nutshell\Chapter02\PredefinedTypes\bin\Debug\net5.0\ref\PredefinedTypes.dll
+C:\Users\sarat\code\learn\c#9-nutshell\Chapter02\PredefinedTypes\bin\Debug\net5.0\PredefinedTypes.pdb
+C:\Users\sarat\code\learn\c#9-nutshell\Chapter02\PredefinedTypes\obj\Debug\net5.0\PredefinedTypes.csprojAssemblyReference.cache
+C:\Users\sarat\code\learn\c#9-nutshell\Chapter02\PredefinedTypes\obj\Debug\net5.0\PredefinedTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sarat\code\learn\c#9-nutshell\Chapter02\PredefinedTypes\obj\Debug\net5.0\PredefinedTypes.AssemblyInfoInputs.cache
+C:\Users\sarat\code\learn\c#9-nutshell\Chapter02\PredefinedTypes\obj\Debug\net5.0\PredefinedTypes.AssemblyInfo.cs
+C:\Users\sarat\code\learn\c#9-nutshell\Chapter02\PredefinedTypes\obj\Debug\net5.0\PredefinedTypes.csproj.CoreCompileInputs.cache
+C:\Users\sarat\code\learn\c#9-nutshell\Chapter02\PredefinedTypes\obj\Debug\net5.0\PredefinedTypes.dll
+C:\Users\sarat\code\learn\c#9-nutshell\Chapter02\PredefinedTypes\obj\Debug\net5.0\ref\PredefinedTypes.dll
+C:\Users\sarat\code\learn\c#9-nutshell\Chapter02\PredefinedTypes\obj\Debug\net5.0\PredefinedTypes.pdb
+C:\Users\sarat\code\learn\c#9-nutshell\Chapter02\PredefinedTypes\obj\Debug\net5.0\PredefinedTypes.genruntimeconfig.cache

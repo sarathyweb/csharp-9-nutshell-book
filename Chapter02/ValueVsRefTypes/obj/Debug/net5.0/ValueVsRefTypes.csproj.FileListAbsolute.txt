@@ -1,0 +1,16 @@
+C:\Users\sarat\code\learn\c#9-nutshell\Chapter02\ValueVsRefTypes\bin\Debug\net5.0\ValueVsRefTypes.exe
+C:\Users\sarat\code\learn\c#9-nutshell\Chapter02\ValueVsRefTypes\bin\Debug\net5.0\ValueVsRefTypes.deps.json
+C:\Users\sarat\code\learn\c#9-nutshell\Chapter02\ValueVsRefTypes\bin\Debug\net5.0\ValueVsRefTypes.runtimeconfig.json
+C:\Users\sarat\code\learn\c#9-nutshell\Chapter02\ValueVsRefTypes\bin\Debug\net5.0\ValueVsRefTypes.runtimeconfig.dev.json
+C:\Users\sarat\code\learn\c#9-nutshell\Chapter02\ValueVsRefTypes\bin\Debug\net5.0\ValueVsRefTypes.dll
+C:\Users\sarat\code\learn\c#9-nutshell\Chapter02\ValueVsRefTypes\bin\Debug\net5.0\ref\ValueVsRefTypes.dll
+C:\Users\sarat\code\learn\c#9-nutshell\Chapter02\ValueVsRefTypes\bin\Debug\net5.0\ValueVsRefTypes.pdb
+C:\Users\sarat\code\learn\c#9-nutshell\Chapter02\ValueVsRefTypes\obj\Debug\net5.0\ValueVsRefTypes.csprojAssemblyReference.cache
+C:\Users\sarat\code\learn\c#9-nutshell\Chapter02\ValueVsRefTypes\obj\Debug\net5.0\ValueVsRefTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sarat\code\learn\c#9-nutshell\Chapter02\ValueVsRefTypes\obj\Debug\net5.0\ValueVsRefTypes.AssemblyInfoInputs.cache
+C:\Users\sarat\code\learn\c#9-nutshell\Chapter02\ValueVsRefTypes\obj\Debug\net5.0\ValueVsRefTypes.AssemblyInfo.cs
+C:\Users\sarat\code\learn\c#9-nutshell\Chapter02\ValueVsRefTypes\obj\Debug\net5.0\ValueVsRefTypes.csproj.CoreCompileInputs.cache
+C:\Users\sarat\code\learn\c#9-nutshell\Chapter02\ValueVsRefTypes\obj\Debug\net5.0\ValueVsRefTypes.dll
+C:\Users\sarat\code\learn\c#9-nutshell\Chapter02\ValueVsRefTypes\obj\Debug\net5.0\ref\ValueVsRefTypes.dll
+C:\Users\sarat\code\learn\c#9-nutshell\Chapter02\ValueVsRefTypes\obj\Debug\net5.0\ValueVsRefTypes.pdb
+C:\Users\sarat\code\learn\c#9-nutshell\Chapter02\ValueVsRefTypes\obj\Debug\net5.0\ValueVsRefTypes.genruntimeconfig.cache
