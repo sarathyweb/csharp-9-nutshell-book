@@ -1,0 +1,16 @@
+C:\Users\sarat\code\learn\c#9-nutshell\Chapter02\Statements\bin\Debug\net5.0\Statements.exe
+C:\Users\sarat\code\learn\c#9-nutshell\Chapter02\Statements\bin\Debug\net5.0\Statements.deps.json
+C:\Users\sarat\code\learn\c#9-nutshell\Chapter02\Statements\bin\Debug\net5.0\Statements.runtimeconfig.json
+C:\Users\sarat\code\learn\c#9-nutshell\Chapter02\Statements\bin\Debug\net5.0\Statements.runtimeconfig.dev.json
+C:\Users\sarat\code\learn\c#9-nutshell\Chapter02\Statements\bin\Debug\net5.0\Statements.dll
+C:\Users\sarat\code\learn\c#9-nutshell\Chapter02\Statements\bin\Debug\net5.0\ref\Statements.dll
+C:\Users\sarat\code\learn\c#9-nutshell\Chapter02\Statements\bin\Debug\net5.0\Statements.pdb
+C:\Users\sarat\code\learn\c#9-nutshell\Chapter02\Statements\obj\Debug\net5.0\Statements.csprojAssemblyReference.cache
+C:\Users\sarat\code\learn\c#9-nutshell\Chapter02\Statements\obj\Debug\net5.0\Statements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sarat\code\learn\c#9-nutshell\Chapter02\Statements\obj\Debug\net5.0\Statements.AssemblyInfoInputs.cache
+C:\Users\sarat\code\learn\c#9-nutshell\Chapter02\Statements\obj\Debug\net5.0\Statements.AssemblyInfo.cs
+C:\Users\sarat\code\learn\c#9-nutshell\Chapter02\Statements\obj\Debug\net5.0\Statements.csproj.CoreCompileInputs.cache
+C:\Users\sarat\code\learn\c#9-nutshell\Chapter02\Statements\obj\Debug\net5.0\Statements.dll
+C:\Users\sarat\code\learn\c#9-nutshell\Chapter02\Statements\obj\Debug\net5.0\ref\Statements.dll
+C:\Users\sarat\code\learn\c#9-nutshell\Chapter02\Statements\obj\Debug\net5.0\Statements.pdb
+C:\Users\sarat\code\learn\c#9-nutshell\Chapter02\Statements\obj\Debug\net5.0\Statements.genruntimeconfig.cache
